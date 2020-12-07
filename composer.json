@@ -46,6 +46,7 @@
         "facebook/php-ads-sdk": "2.8.*",
 		"iadvize/apirestclient": "1.2.0",
         "sugarcrm/rest-php-client": "1.4.5",
+      	"automattic/woocommerce": "^3.0",
         "symfony/webpack-encore-bundle": "^1.8",
         "roave/better-reflection": "^4.3",
 		"laminas/laminas-code": "^3.4",
